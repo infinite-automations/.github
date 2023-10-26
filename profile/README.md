@@ -1,22 +1,22 @@
 # Welcome to the Infinite Automations Organization! 🚀
 
-This organization is dedicated to GitHub Actions enthusiasts, DevOps practitioners, and automation experts. Here, we focus on enhancing automation workflows using GitHub Actions.
+This organization is dedicated to automation enthusiasts, DevOps practitioners, and experts passionate about enhancing workflows using GitHub Actions and Terraform modules.
 
-## ❓ What's this Repository About? ❓
+## ❓ What's this Organization About? ❓
 
-This organization is your creative space for innovating with GitHub Actions! Here, you can:
+Infinite Automations is your hub for innovating automation solutions! Here, you can:
 
-- [Discuss New Action Ideas](https://github.com/orgs/infinite-automations/discussions/categories/ideas): Engage in discussions and propose new GitHub Actions to implement, improving automation across various workflows.
+- [Discuss New Automation Ideas](https://github.com/orgs/infinite-automations/discussions/categories/ideas): Engage in discussions and propose new GitHub Actions and Terraform modules, shaping the future of automation across various workflows.
 
-- [Vote on Action Polls](https://github.com/orgs/infinite-automations/discussions/categories/polls): Shape the direction of this repository by participating in polls about upcoming GitHub Actions.
+- [Vote on Automation Polls](https://github.com/orgs/infinite-automations/discussions/categories/polls): Participate in polls about upcoming GitHub Actions and Terraform modules, influencing the direction of automation projects in this organization.
 
-- [Explore GitHub Actions Discussions](https://github.com/orgs/infinite-automations/discussions): Stay updated and discover all discussions related to GitHub Actions within the community.
+- [Explore Automation Discussions](https://github.com/orgs/infinite-automations/discussions): Stay updated and discover all discussions related to automation within the community.
 
-Feel free to share your innovative ideas, vote in polls, and actively collaborate with other GitHub Actions enthusiasts. Let's build powerful, automated workflows together!
+Feel free to share your innovative ideas, vote in polls, and actively collaborate with other automation enthusiasts. Let's build powerful, automated workflows and streamline infrastructure provisioning together!
 
 ## 🚀 Featured GitHub Actions
 
-**[ExploreGitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=infinite-automations)**
+**[Explore GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=infinite-automations)**
 
 Explore some of the GitHub Actions tailored for automation workflows:
 
@@ -30,7 +30,13 @@ Explore some of the GitHub Actions tailored for automation workflows:
 
 ### 🐳Container
 
-1. [container-build-push](https://github.com/infinite-automations/full-build-push-action): Simple github action that uses various docker actions to build and publish multiarch container images with meaningful tags.
+1. [container-build-push](https://github.com/infinite-automations/full-build-push-action): Simple GitHub Action that uses various Docker actions to build and publish multi-architecture container images with meaningful tags.
+
+## 🚀 Featured Terraform Modules
+
+**[Explore Terraform Registry](https://registry.terraform.io/search/modules?q=infinite-automations)**
+
+1. [Terraform Azure AD GitHub OIDC](https://github.com/infinite-automations/terraform-azuread-github-oidc): Simplify authentication and authorization workflows in your applications by integrating Azure Active Directory with GitHub using OpenID Connect protocols. Secure your applications and APIs, and streamline user access management with this powerful Terraform module.
 
 ## 🎉 Let's Elevate GitHub Actions Together
 
@@ -38,4 +44,4 @@ Join us in shaping the future of automation using GitHub Actions. Share your ide
 
 ---
 
-**[Start Exploring Action Ideas](https://github.com/orgs/infinite-automations/discussions/categories/ideas) | [ExploreGitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=infinite-automations)**
+**[Start Exploring Action Ideas](https://github.com/orgs/infinite-automations/discussions/categories/ideas) | [Explore GitHub Marketplace](https://github.com/marketplace?category=&type=&verification=&query=infinite-automations) | [Explore Terraform Registry](https://registry.terraform.io/search/modules?q=infinite-automations)**
