@@ -36,7 +36,9 @@ Explore some of the GitHub Actions tailored for automation workflows:
 
 **[Explore Terraform Registry](https://registry.terraform.io/search/modules?q=infinite-automations)**
 
-1. [Terraform Azure AD GitHub OIDC](https://github.com/infinite-automations/terraform-azuread-github-oidc): Simplify authentication and authorization workflows in your applications by integrating Azure Active Directory with GitHub using OpenID Connect protocols. Secure your applications and APIs, and streamline user access management with this powerful Terraform module.
+1. [Azure AD GitHub OIDC](https://github.com/infinite-automations/terraform-azuread-github-oidc): Simplify authentication and authorization workflows in your applications by integrating Azure Active Directory with GitHub using OpenID Connect protocols. Secure your applications and APIs, and streamline user access management with this powerful Terraform module.
+1. [GitHub Actions Runner Controller](https://github.com/infinite-automations/terraform-helm-github-actions-runner-controller) : Supercharge your GitHub Actions with our Terraform module for deploying a GitHub Actions Runner Controller to any Kubernetes cluster. Efficiently manage and scale your self-hosted runners, ensuring optimal performance for your CI/CD workflows. Take control of your automation infrastructure and streamline the deployment of GitHub Actions runners seamlessly.
+1. [GitHub Actions Runner](https://github.com/infinite-automations/terraform-kubectl-github-actions-runner): Enhance your GitHub Actions with our Terraform module crafted for deploying GitHub Runners to any Kubernetes cluster. Effortlessly provision and configure self-hosted runners, empowering your CI/CD pipelines with flexibility and scalability. Customize the runner setup to meet your specific requirements without the need for Helm. Streamline the orchestration of GitHub Actions runners in your Kubernetes environment using this robust Terraform module.
 
 ## 🎉 Let's Elevate GitHub Actions Together
 
