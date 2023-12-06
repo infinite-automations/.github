@@ -40,9 +40,9 @@ Explore some of the GitHub Actions tailored for automation workflows:
 1. [GitHub Actions Runner Controller](https://github.com/infinite-automations/terraform-helm-github-actions-runner-controller) : Supercharge your GitHub Actions with our Terraform module for deploying a GitHub Actions Runner Controller to any Kubernetes cluster. Efficiently manage and scale your self-hosted runners, ensuring optimal performance for your CI/CD workflows. Take control of your automation infrastructure and streamline the deployment of GitHub Actions runners seamlessly.
 1. [GitHub Actions Runner](https://github.com/infinite-automations/terraform-kubectl-github-actions-runner): Enhance your GitHub Actions with our Terraform module crafted for deploying GitHub Runners to any Kubernetes cluster. Effortlessly provision and configure self-hosted runners, empowering your CI/CD pipelines with flexibility and scalability. Customize the runner setup to meet your specific requirements without the need for Helm. Streamline the orchestration of GitHub Actions runners in your Kubernetes environment using this robust Terraform module.
 
-## 🎉 Let's Elevate GitHub Actions Together
+## 🎉 Let's Elevate Automation Together
 
-Join us in shaping the future of automation using GitHub Actions. Share your ideas, collaborate with fellow developers, and contribute to creating valuable GitHub Actions. Together, we can simplify workflows, increase efficiency, and achieve automation excellence. Happy coding! 🚀
+Join us in shaping the future of automation. Share your ideas, collaborate with fellow developers, and contribute to creating value. Together, we can simplify workflows, increase efficiency, and achieve automation excellence. Happy coding! 🚀
 
 ---
 
